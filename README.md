@@ -1,1 +1,1 @@
-view [https://zafarislomov.github.io/first-repozitory/]
+view[https://zafarislomov.github.io/first-repozitory/]

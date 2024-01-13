@@ -6,3 +6,10 @@ body {
     border: 1px solid rgb(red, green, blue);
     font-size: 30px;
 }
+div {
+    width: 400px;
+      border: 2px solid #000;
+      margin: 10px auto;
+      border-radius: 50px;
+      box-shadow: 0 0 20px #5f5d01;
+}
